@@ -5,7 +5,9 @@ import foto2 from '../sources/alan.jpg'
 
 
 
+
 function Acercade() {
+
     return (
         <div className="acercade">
             <Navbar />

@@ -7,6 +7,7 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Login from './components/login';
 import CVV from './components/cvv';
 import Acercade from './components/acercade';
+import './config/i18next'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
